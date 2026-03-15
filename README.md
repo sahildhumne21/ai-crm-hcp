@@ -1,3 +1,6 @@
+# ai-crm-hcp
+AI-First CRM HCP Interaction Module using FastAPI, React, LangGraph and Groq LLM
+
 # AI-First CRM – HCP Interaction Module
 
 ## Overview
@@ -257,4 +260,8 @@ The project demonstrates:
 
 - AI-assisted interaction logging
 - Agent-based architecture
+<<<<<<< HEAD
 - LLM integration in CRM workflows
+=======
+- LLM integration in CRM workflows
+>>>>>>> d53ecfe33524411e0d2661b4a6a27ab564abf64f
